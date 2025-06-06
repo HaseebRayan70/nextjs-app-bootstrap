@@ -1,0 +1,205 @@
+2025-05-30 06:19:10,074 - __main__ - INFO - Starting Baby Face Video Transformer Bot...
+2025-05-30 06:19:10,075 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp
+2025-05-30 06:19:10,075 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/videos
+2025-05-30 06:19:10,075 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/frames
+2025-05-30 06:19:10,075 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/output
+2025-05-30 06:19:10,075 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:19:10,075 - __main__ - INFO - System Information:
+2025-05-30 06:19:10,075 - __main__ - INFO - Python version: 3.10.13 (main, Apr  3 2024, 17:08:15) [GCC 9.4.0]
+2025-05-30 06:19:10,075 - __main__ - INFO - Working directory: /project/sandbox/user-workspace/telegram_bot
+2025-05-30 06:19:10,075 - __main__ - INFO - Initializing Telegram bot...
+2025-05-30 06:19:10,076 - telegram_handler - INFO - Starting bot...
+2025-05-30 06:19:10,077 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 06:26:02,188 - __main__ - INFO - Starting Baby Face Video Transformer Bot...
+2025-05-30 06:26:02,188 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp
+2025-05-30 06:26:02,188 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/videos
+2025-05-30 06:26:02,188 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/frames
+2025-05-30 06:26:02,189 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/output
+2025-05-30 06:26:02,189 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:26:02,189 - __main__ - INFO - System Information:
+2025-05-30 06:26:02,189 - __main__ - INFO - Python version: 3.10.13 (main, Apr  3 2024, 17:08:15) [GCC 9.4.0]
+2025-05-30 06:26:02,189 - __main__ - INFO - Working directory: /project/sandbox/user-workspace/telegram_bot
+2025-05-30 06:26:02,189 - __main__ - INFO - Initializing Telegram bot...
+2025-05-30 06:26:02,190 - telegram_handler - INFO - Starting bot...
+2025-05-30 06:26:02,190 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 06:26:02,602 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:02,602 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:06,682 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:06,682 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:07,762 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:07,762 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:12,342 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:12,343 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:13,924 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:13,924 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:19,261 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:19,261 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:21,593 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:21,593 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:25,050 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:25,050 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:28,509 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:28,509 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:28,996 - telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+2025-05-30 06:26:28,996 - telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+2025-05-30 06:26:28,996 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-05-30 06:26:28,996 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-05-30 06:26:30,663 - __main__ - INFO - Starting Baby Face Video Transformer Bot...
+2025-05-30 06:26:30,663 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp
+2025-05-30 06:26:30,663 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/videos
+2025-05-30 06:26:30,663 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/frames
+2025-05-30 06:26:30,663 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/output
+2025-05-30 06:26:30,663 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:26:30,663 - __main__ - INFO - System Information:
+2025-05-30 06:26:30,664 - __main__ - INFO - Python version: 3.10.13 (main, Apr  3 2024, 17:08:15) [GCC 9.4.0]
+2025-05-30 06:26:30,664 - __main__ - INFO - Working directory: /project/sandbox/user-workspace/telegram_bot
+2025-05-30 06:26:30,664 - __main__ - INFO - Initializing Telegram bot...
+2025-05-30 06:26:30,664 - telegram_handler - INFO - Starting bot...
+2025-05-30 06:26:30,665 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 06:26:33,576 - __main__ - INFO - Cleaning up...
+2025-05-30 06:26:33,576 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:26:34,070 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-05-30 06:26:39,139 - __main__ - INFO - Cleaning up...
+2025-05-30 06:26:39,140 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:31:10,692 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:31:10,799 - video_processing - INFO - Progress (0.0%): Downloading video...
+2025-05-30 06:31:10,902 - video_processing - INFO - Progress (0.0%): Starting video download...
+2025-05-30 06:31:11,905 - video_processing - ERROR - Error downloading video: [0;31mERROR:[0m [youtube] XU70gQ1GY-I: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+2025-05-30 06:31:11,906 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:31:12,011 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:34:44,974 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:34:45,097 - video_processing - INFO - Progress (20.0%): Validating video...
+2025-05-30 06:34:47,561 - video_processing - INFO - Progress (30.0%): Preprocessing video...
+2025-05-30 06:34:47,715 - video_processing - INFO - Progress (0.0%): Starting video preprocessing...
+2025-05-30 06:34:47,886 - video_processing - INFO - Progress (50.0%): Converting video format...
+2025-05-30 06:34:47,893 - video_processing - ERROR - Error preprocessing video: [Errno 2] No such file or directory: 'ffmpeg'
+2025-05-30 06:34:47,893 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:34:47,989 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:42:12,088 - telegram.ext.updater - INFO - Received signal 15 (SIGTERM), stopping...
+2025-05-30 06:42:12,090 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2025-05-30 06:42:17,104 - __main__ - INFO - Cleaning up...
+2025-05-30 06:42:17,105 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:42:17,558 - __main__ - INFO - Starting Baby Face Video Transformer Bot...
+2025-05-30 06:42:17,559 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp
+2025-05-30 06:42:17,559 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/videos
+2025-05-30 06:42:17,559 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/frames
+2025-05-30 06:42:17,559 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/output
+2025-05-30 06:42:17,560 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:42:17,561 - __main__ - INFO - System Information:
+2025-05-30 06:42:17,561 - __main__ - INFO - Python version: 3.10.13 (main, Apr  3 2024, 17:08:15) [GCC 9.4.0]
+2025-05-30 06:42:17,561 - __main__ - INFO - Working directory: /project/sandbox/user-workspace/telegram_bot
+2025-05-30 06:42:17,561 - __main__ - INFO - Initializing Telegram bot...
+2025-05-30 06:42:17,562 - telegram_handler - INFO - Starting bot...
+2025-05-30 06:42:17,562 - apscheduler.scheduler - INFO - Scheduler started
+2025-05-30 06:46:12,883 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:46:12,984 - video_processing - INFO - Progress (0.0%): Downloading video...
+2025-05-30 06:46:13,114 - video_processing - INFO - Progress (0.0%): Starting video download...
+2025-05-30 06:46:14,143 - video_processing - ERROR - Error downloading video: [0;31mERROR:[0m [youtube] XU70gQ1GY-I: Sign in to confirm you’re not a bot. This helps protect our community. Learn more
+2025-05-30 06:46:14,143 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:46:14,240 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:46:49,932 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:46:50,055 - video_processing - INFO - Progress (20.0%): Validating video...
+2025-05-30 06:46:50,190 - video_processing - INFO - Progress (30.0%): Preprocessing video...
+2025-05-30 06:46:50,327 - video_processing - INFO - Progress (0.0%): Starting video preprocessing...
+2025-05-30 06:46:50,430 - video_processing - INFO - Progress (50.0%): Converting video format...
+2025-05-30 06:46:56,087 - video_processing - INFO - Progress (100.0%): Preprocessing complete
+2025-05-30 06:46:56,185 - video_processing - INFO - Progress (50.0%): Detecting facial landmarks...
+2025-05-30 06:46:56,550 - face_detection - INFO - Processing frame 0/671 (0.0%)
+2025-05-30 06:46:56,618 - face_detection - INFO - Processing frame 30/671 (4.5%)
+2025-05-30 06:46:56,685 - face_detection - INFO - Processing frame 60/671 (8.9%)
+2025-05-30 06:46:56,757 - face_detection - INFO - Processing frame 90/671 (13.4%)
+2025-05-30 06:46:56,823 - face_detection - INFO - Processing frame 120/671 (17.9%)
+2025-05-30 06:46:56,891 - face_detection - INFO - Processing frame 150/671 (22.4%)
+2025-05-30 06:46:56,964 - face_detection - INFO - Processing frame 180/671 (26.8%)
+2025-05-30 06:46:57,029 - face_detection - INFO - Processing frame 210/671 (31.3%)
+2025-05-30 06:46:57,104 - face_detection - INFO - Processing frame 240/671 (35.8%)
+2025-05-30 06:46:57,184 - face_detection - INFO - Processing frame 270/671 (40.2%)
+2025-05-30 06:46:57,274 - face_detection - INFO - Processing frame 300/671 (44.7%)
+2025-05-30 06:46:57,343 - face_detection - INFO - Processing frame 330/671 (49.2%)
+2025-05-30 06:46:57,438 - face_detection - INFO - Processing frame 360/671 (53.7%)
+2025-05-30 06:46:57,525 - face_detection - INFO - Processing frame 390/671 (58.1%)
+2025-05-30 06:46:57,612 - face_detection - INFO - Processing frame 420/671 (62.6%)
+2025-05-30 06:46:57,677 - face_detection - INFO - Processing frame 450/671 (67.1%)
+2025-05-30 06:46:57,767 - face_detection - INFO - Processing frame 480/671 (71.5%)
+2025-05-30 06:46:57,863 - face_detection - INFO - Processing frame 510/671 (76.0%)
+2025-05-30 06:46:57,945 - face_detection - INFO - Processing frame 540/671 (80.5%)
+2025-05-30 06:46:58,046 - face_detection - INFO - Processing frame 570/671 (84.9%)
+2025-05-30 06:46:58,142 - face_detection - INFO - Processing frame 600/671 (89.4%)
+2025-05-30 06:46:58,226 - face_detection - INFO - Processing frame 630/671 (93.9%)
+2025-05-30 06:46:58,312 - face_detection - INFO - Processing frame 660/671 (98.4%)
+2025-05-30 06:46:58,345 - face_detection - INFO - Processed 671 frames, found faces in 0 frames
+2025-05-30 06:46:58,345 - face_detection - WARNING - No faces detected in video
+2025-05-30 06:46:58,347 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:46:58,442 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:56:31,957 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:56:32,090 - video_processing - INFO - Progress (20.0%): Validating video...
+2025-05-30 06:56:32,227 - video_processing - INFO - Progress (30.0%): Preprocessing video...
+2025-05-30 06:56:32,323 - video_processing - INFO - Progress (0.0%): Starting video preprocessing...
+2025-05-30 06:56:32,428 - video_processing - INFO - Progress (50.0%): Converting video format...
+2025-05-30 06:56:38,078 - video_processing - INFO - Progress (100.0%): Preprocessing complete
+2025-05-30 06:56:38,179 - video_processing - INFO - Progress (50.0%): Detecting facial landmarks...
+2025-05-30 06:56:38,254 - face_detection - INFO - Processing frame 0/671 (0.0%)
+2025-05-30 06:56:38,358 - face_detection - INFO - Processing frame 30/671 (4.5%)
+2025-05-30 06:56:38,435 - face_detection - INFO - Processing frame 60/671 (8.9%)
+2025-05-30 06:56:38,521 - face_detection - INFO - Processing frame 90/671 (13.4%)
+2025-05-30 06:56:38,611 - face_detection - INFO - Processing frame 120/671 (17.9%)
+2025-05-30 06:56:38,712 - face_detection - INFO - Processing frame 150/671 (22.4%)
+2025-05-30 06:56:38,804 - face_detection - INFO - Processing frame 180/671 (26.8%)
+2025-05-30 06:56:38,898 - face_detection - INFO - Processing frame 210/671 (31.3%)
+2025-05-30 06:56:38,994 - face_detection - INFO - Processing frame 240/671 (35.8%)
+2025-05-30 06:56:39,090 - face_detection - INFO - Processing frame 270/671 (40.2%)
+2025-05-30 06:56:39,179 - face_detection - INFO - Processing frame 300/671 (44.7%)
+2025-05-30 06:56:39,280 - face_detection - INFO - Processing frame 330/671 (49.2%)
+2025-05-30 06:56:39,375 - face_detection - INFO - Processing frame 360/671 (53.7%)
+2025-05-30 06:56:39,471 - face_detection - INFO - Processing frame 390/671 (58.1%)
+2025-05-30 06:56:39,560 - face_detection - INFO - Processing frame 420/671 (62.6%)
+2025-05-30 06:56:39,642 - face_detection - INFO - Processing frame 450/671 (67.1%)
+2025-05-30 06:56:39,724 - face_detection - INFO - Processing frame 480/671 (71.5%)
+2025-05-30 06:56:39,829 - face_detection - INFO - Processing frame 510/671 (76.0%)
+2025-05-30 06:56:39,927 - face_detection - INFO - Processing frame 540/671 (80.5%)
+2025-05-30 06:56:40,014 - face_detection - INFO - Processing frame 570/671 (84.9%)
+2025-05-30 06:56:40,114 - face_detection - INFO - Processing frame 600/671 (89.4%)
+2025-05-30 06:56:40,198 - face_detection - INFO - Processing frame 630/671 (93.9%)
+2025-05-30 06:56:40,298 - face_detection - INFO - Processing frame 660/671 (98.4%)
+2025-05-30 06:56:40,328 - face_detection - INFO - Processed 671 frames, found faces in 0 frames
+2025-05-30 06:56:40,328 - face_detection - WARNING - No faces detected in video
+2025-05-30 06:56:40,331 - utils - INFO - Temporary directories cleaned successfully
+2025-05-30 06:56:40,461 - utils - INFO - Temporary directories cleaned successfully
+2025-06-06 06:38:47,293 - __main__ - INFO - Starting Baby Face Video Transformer Bot...
+2025-06-06 06:38:47,294 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp
+2025-06-06 06:38:47,294 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/videos
+2025-06-06 06:38:47,294 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/frames
+2025-06-06 06:38:47,294 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/output
+2025-06-06 06:38:47,294 - utils - INFO - Temporary directories cleaned successfully
+2025-06-06 06:38:47,294 - __main__ - INFO - System Information:
+2025-06-06 06:38:47,294 - __main__ - INFO - Python version: 3.10.13 (main, Apr  3 2024, 17:08:15) [GCC 9.4.0]
+2025-06-06 06:38:47,294 - __main__ - INFO - Working directory: /project/sandbox/user-workspace/telegram_bot
+2025-06-06 06:38:47,294 - __main__ - INFO - Initializing Telegram bot...
+2025-06-06 06:38:47,295 - telegram_handler - INFO - Starting bot...
+2025-06-06 06:38:47,295 - apscheduler.scheduler - INFO - Scheduler started
+2025-06-06 06:38:47,709 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:38:47,712 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:38:51,793 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:38:51,793 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:38:52,878 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:38:52,878 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:38:57,460 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:38:57,461 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:38:59,089 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:38:59,089 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:39:04,422 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:39:04,422 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:39:06,756 - telegram.ext.updater - ERROR - Error while getting Updates: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:39:06,756 - telegram_handler - ERROR - Update None caused error Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-06-06 06:39:09,925 - __main__ - INFO - Starting Baby Face Video Transformer Bot...
+2025-06-06 06:39:09,925 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp
+2025-06-06 06:39:09,925 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/videos
+2025-06-06 06:39:09,925 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/temp/frames
+2025-06-06 06:39:09,925 - root - INFO - Ensured directory exists: /project/sandbox/user-workspace/telegram_bot/output
+2025-06-06 06:39:09,925 - utils - INFO - Temporary directories cleaned successfully
+2025-06-06 06:39:09,925 - __main__ - INFO - System Information:
+2025-06-06 06:39:09,925 - __main__ - INFO - Python version: 3.10.13 (main, Apr  3 2024, 17:08:15) [GCC 9.4.0]
+2025-06-06 06:39:09,925 - __main__ - INFO - Working directory: /project/sandbox/user-workspace/telegram_bot
+2025-06-06 06:39:09,925 - __main__ - INFO - Initializing Telegram bot...
+2025-06-06 06:39:09,926 - telegram_handler - INFO - Starting bot...
+2025-06-06 06:39:09,926 - apscheduler.scheduler - INFO - Scheduler started
